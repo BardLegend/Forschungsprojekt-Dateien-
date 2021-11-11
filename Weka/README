@@ -1,0 +1,5 @@
+Die .arff Datei haben wir aus unserem Datensatz erstellt. 
+Dieses hier ist der kleine. Der große lässt sich hier nicht hochladen.
+Um die .arff Datei zu generieren mussten wir für jede Spalte spezifizieren was für ein Attribut es ist. 
+Wichtig war zum Bespiel, dass der Wert von "failure" nicht numerisch als Zahl betrachtet wird. 
+Deshalb muss es in geschweiften Klammern stehen.
